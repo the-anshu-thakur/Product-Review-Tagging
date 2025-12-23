@@ -1,3 +1,5 @@
+file = https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset/data
+
 # Summary of the project
 
 **Overall Sentiment Distribution Text Based Sentiment Distribution** The majority of reviews (approximately 140,000) are classified as Positive based on text analysis using VADER. Negative reviews number around 20,000, while Neutral reviews account for about 25,000. This indicates a strong positive bias in the text content of the reviews, suggesting that customers tend to express favorable opinions in their written feedback.
