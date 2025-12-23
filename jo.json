@@ -1,0 +1,7 @@
+{
+  "Late Delivery": ["delayed", "came late", "arrived late", "took too long"],
+  "Fast Delivery": ["delivered quickly", "on time", "before expected", "fast delivery"],
+  "Battery Issue": ["battery drains", "poor battery", "low battery backup", "doesn't last"],
+  "Good Packaging": ["well packed", "secure packaging", "excellent packaging"],
+  "Bad Sound Quality": ["poor sound", "low volume", "bad audio", "sound issue"]
+}
